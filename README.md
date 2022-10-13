@@ -5,7 +5,6 @@
 ## About me
 
 - Graduating computer science at Universidade Federal de Campina Grande - Brazil
-- i am groot
 
 ## Technologies
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
